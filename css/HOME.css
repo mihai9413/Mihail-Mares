@@ -1,0 +1,48 @@
+
+body,html  {
+
+    height: 100%;
+    margin: 0;
+
+    background-image: url("https://www.tokkoro.com/picsup/2813115-retro-games-mountain-8-bit___retro-vintage-wallpapers.jpg");
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+div.a {
+    line-height: 200px;
+    height: 200px;
+    text-align: center;
+ }
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+
+}
